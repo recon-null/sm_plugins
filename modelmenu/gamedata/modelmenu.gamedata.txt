@@ -1,0 +1,19 @@
+"Games"
+{
+	"#default"
+	{
+		"#supported"
+		{
+			"game"		"cstrike"
+			"game"		"dod"
+		}
+		"Offsets"
+		{
+			"SetModel"
+			{
+				"windows"	"25"
+				"linux"		"26"
+			}
+		}
+	}
+}
